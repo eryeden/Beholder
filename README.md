@@ -16,3 +16,10 @@
 - [ ] Object tracking
 
 
+## Gazebo
+
+| name | description | 
+| --- | --- |
+| gazebo version | ignition |
+
+https://gazebosim.org/docs/garden/building_robot
